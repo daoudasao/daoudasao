@@ -10,7 +10,7 @@
 
 ### 👨🏾‍💻 À propos de moi
 
-```yaml
+```markdown
 Nom: Daouda Sao
 Rôle: Développeur Full Stack Web & Mobile
 Système: Ubuntu 🐧
