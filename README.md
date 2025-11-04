@@ -13,7 +13,7 @@
 <h3>💻 Développeur Web & Mobile Full Stack | Passionné par le design moderne</h3>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6600&width=600&lines=Next.js+%F0%9F%92%BB+React+Native+%F0%9F%93%9D+Supabase+%F0%9F%94%8D+Firebase+%F0%9F%9A%80+Flutter+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=FF6600&width=600&lines=Next.js+%F0%9F%92%BB+React+Native+%F0%9F%93%9D+Supabase+%F0%9F%94%8D+Firebase+%F0%9F%9A%80+Flutter+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -53,22 +53,22 @@
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
+| **Technolab Awards** | Site de vote pour les participants à un concours | Next.js • Supabase • Tailwind |
 | **Prestago** | Plateforme de mise en relation prestataires/clients | Next.js • Supabase • PostgreSQL |
-| **AfroTaste Academy** | Plateforme e-learning culinaire | Next.js • Supabase • Mux |
-| **UniLink App** | Réseau social universitaire | React Native • Firebase |
+| **Aw ka gua** | Plateforme e-learning culinaire | Next.js • Supabase • Mux |
+| **Ista online** | Réseau social universitaire | React Native • Firebase |
 | **Contact Manager** | Gestion de contacts en ligne | PHP • MySQL |
-| **Technola Awards** | Site de vote pour les participants à un concours | Next.js • Supabase • Tailwind |
 
 ---
 
 ### 🔗 Me retrouver
 
 <p align="center">
-<a href="https://www.linkedin.com/in/daoudasao" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Daouda%20Sao-0A66C2?style=for-the-badge&logo=linkedin" />
+<!-- <a href="https://www.linkedin.com/in/daoudasao" target="_blank">[](url) -->
+<!-- <img src="https://img.shields.io/badge/LinkedIn-Daouda%20Sao-0A66C2?style=for-the-badge&logo=linkedin" /> -->
 </a>
-<a href="mailto:daoudasao.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-daoudasao.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:daoudasao28@gmail.com">
+<img src="https://img.shields.io/badge/Email-daoudasao28@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://twitter.com/" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-@DaoudaSao-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
