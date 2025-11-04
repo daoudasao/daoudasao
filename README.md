@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<!-- Animated gradient background header -->
 <h1>
   <span style="background: linear-gradient(270deg, #FF6600, #FFCC00, #FF6600); 
   -webkit-background-clip: text; 
@@ -14,7 +13,7 @@
 <h3>💻 Développeur Web & Mobile Full Stack | Passionné par le design moderne</h3>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6600&width=600&lines=Next.js+%F0%9F%92%BB+React+Native+%F0%9F%93%9D+Supabase+%F0%9F%94%8D+Firebase+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6600&width=600&lines=Next.js+%F0%9F%92%BB+React+Native+%F0%9F%93%9D+Supabase+%F0%9F%94%8D+Firebase+%F0%9F%9A%80+Flutter+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -22,17 +21,17 @@
 
 ### 🚀 À propos de moi
 
-- 🔭 Je crée des **applications web et mobiles modernes et performantes**.  
-- 🌱 Toujours en exploration : **Next.js, React Native, Supabase, Firebase, Prisma**.  
+- 🔭 **Développeur Full Stack Web & Mobile chez Elverra Global ML**  
+- 🌱 Je crée des **applications web et mobiles modernes et performantes**.  
 - 🎨 Passionné par le **design UI/UX interactif et animé**.  
-- 💬 Parlons de **JavaScript, TypeScript, Node.js, PostgreSQL, MySQL et animations frontend**.  
+- 💬 Parlons de **JavaScript, TypeScript, Node.js, PostgreSQL, MySQL, Flutter et animations frontend**.  
 
 ---
 
 ### 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,prisma,supabase,firebase,postgres,mysql,vscode,git,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,prisma,supabase,firebase,postgres,mysql,vscode,git,figma,flutter" />
 </div>
 
 ---
@@ -58,6 +57,7 @@
 | **AfroTaste Academy** | Plateforme e-learning culinaire | Next.js • Supabase • Mux |
 | **UniLink App** | Réseau social universitaire | React Native • Firebase |
 | **Contact Manager** | Gestion de contacts en ligne | PHP • MySQL |
+| **Technola Awards** | Site de vote pour les participants à un concours | Next.js • Supabase • Tailwind |
 
 ---
 
@@ -77,7 +77,7 @@
 
 ---
 
-### 🌀 Animations
+### 🌀 Play
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
